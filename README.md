@@ -1,10 +1,10 @@
-# SubHunter
+# SubDoxer
 
 ## Overview
 
-**SubHunter** is a Python tool designed to discover subdomains associated with a target domain. Ideal for cybersecurity enthusiasts and penetration testers, this tool helps you map out potential subdomains quickly and efficiently.
+**SubDoxer** is a Python tool designed to discover subdomains associated with a target domain. Ideal for cybersecurity enthusiasts and penetration testers, this tool helps you map out potential subdomains quickly and efficiently.
 
-Version 1.1 of SubHunter utilizes a predefined list of over 500 common and potential subdomains to check against a target domain. It employs DNS resolution to verify the existence of these subdomains.
+Version 1.1 of SubDoxer utilizes a predefined list of over 500 common and potential subdomains to check against a target domain. It employs DNS resolution to verify the existence of these subdomains.
 
 ## Features
 
@@ -15,14 +15,14 @@ Version 1.1 of SubHunter utilizes a predefined list of over 500 common and poten
 - **Colorful Output**: Provides clear and colorful console output using `colorama`.
 
 
-![image](https://github.com/BilalAhmadKhanKhattak/SubHunter/blob/main/Screenshot%20(14).png)
+![image](https://github.com/BilalAhmadKhanKhattak/SubDoxer/blob/main/Screenshot%20(14).png)
 ## Installation
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/BilalAhmadKhanKhattak/SubHunter.git
-    cd SubHunter
+    git clone https://github.com/BilalAhmadKhanKhattak/SubDoxer.git
+    cd SubDoxer
     ```
 
 2. **Install the required dependencies:**
@@ -43,7 +43,7 @@ Version 1.1 of SubHunter utilizes a predefined list of over 500 common and poten
 1. **Run the tool:**
 
     ```bash
-    python subhunter.py
+    python SubDoxer.py
     ```
 
 2. **Enter the target domain when prompted:**
