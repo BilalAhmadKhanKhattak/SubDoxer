@@ -15,7 +15,7 @@ Version 1.1 of SubDoxer utilizes a predefined list of over 500 common and potent
 - **Colorful Output**: Provides clear and colorful console output using `colorama`.
 
 
-![image](https://github.com/BilalAhmadKhanKhattak/SubDoxer/blob/main/Screenshot%20(14).png)
+![image](https://github.com/BilalAhmadKhanKhattak/SubDoxer/blob/main/Screenshot%20(25).png)
 ## Installation
 
 1. **Clone the repository:**
